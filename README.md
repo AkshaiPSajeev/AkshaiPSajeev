@@ -14,9 +14,9 @@
 
 - 👨‍💻 All of my projects are available at [https://akshaipsajeev.co.in/](https://akshaipsajeev.co.in/)
 
-- 💬 Ask me about **Node JS , React JS , Mongo Db, Data Structures**
+- 💬 Feel free to ask me about **Node JS , React JS , Mongo Db, Data Structures**
 
-- 📫 How to reach me **akshaipsajeev@gmail.com**
+- 📫 reach me at **akshaipsajeev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
