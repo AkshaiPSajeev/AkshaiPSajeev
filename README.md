@@ -10,7 +10,7 @@
 <a href="https://linkedin.com/in/akshaipsajeev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshaipsajeev" height="30" width="40" /></a>
 </p>
 
-- 🌱 I’m currently learning **MERN Stack web developement**
+- 🌱 I’m currently focusing on **MERN Stack web developement**
 
 - 👨‍💻 All of my projects are available at [https://akshaipsajeev.co.in/](https://akshaipsajeev.co.in/)
 
