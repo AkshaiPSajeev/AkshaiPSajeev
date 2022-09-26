@@ -25,6 +25,6 @@
 
   <b>My GitHub Stats</b>
 
-<!--  <a href="http://www.github.com/AkshaiPSajeev"><img src="https://github-readme-stats.vercel.app/api?username=AkshaiPSajeev&show_icons=true&hide=prs,&count_private=true&title_color=facc15&text_color=ffffff&icon_color=6366f1&bg_color=181824&hide_border=true&show_icons=true" alt="AkshaiPSajeev's GitHub stats" /></a> -->
+<!--  <a href="http://www.github.com/AkshaiPSajeev"><img src="https://github-readme-stats.vercel.app/api?username=AkshaiPSajeev&show_icons=true&hide=prs,&count_private=true&count_public=true&title_color=facc15&text_color=ffffff&icon_color=6366f1&bg_color=181824&hide_border=true&show_icons=true" alt="AkshaiPSajeev's GitHub stats" /></a> -->
 
 <a href="http://www.github.com/AkshaiPSajeev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AkshaiPSajeev&stroke=ffffff&background=181824&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
